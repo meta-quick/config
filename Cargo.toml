@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "config",
+    "config_derive",
+    "test_suite"
+]

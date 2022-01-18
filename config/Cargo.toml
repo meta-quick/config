@@ -1,0 +1,9 @@
+[package]
+name = "config"
+version = "0.10.0"
+authors = ["gao.brain@gmail.com"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+config_derive = { version = "0.10.0", path = "../config_derive" }
